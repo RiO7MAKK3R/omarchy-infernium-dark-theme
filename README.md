@@ -30,7 +30,7 @@ Minimal Noise: Clean UI that emphasizes coding, monitoring, and productivity.
 
 ```console
 
-omarchy-theme-install https://https://https://github.com/RiO7MAKK3R/omarchy-infernium-dark-theme
+omarchy-theme-install https://github.com/RiO7MAKK3R/omarchy-infernium-dark-theme
 
 ```
 

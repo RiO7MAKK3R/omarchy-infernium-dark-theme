@@ -1,0 +1,79 @@
+
+# Background and text
+
+theme[main_bg]      = "#1C1C1C" 
+theme[main_fg]      = "#E0E0E0" 
+theme[title]        = "#E0E0E0"
+theme[inactive_fg]  = "#767476" 
+theme[graph_text]   = "#97969A" 
+theme[proc_misc]    = "#AEB1C0" 
+
+
+# Highlights and selection
+
+theme[hi_fg]        = "#E0E0E0"
+theme[selected_bg]  = "#2F2F2F" 
+theme[selected_fg]  = "#E0E0E0"
+
+
+# Borders / outlines
+
+theme[cpu_box]      = "#E3884A"
+theme[mem_box]      = "#E3884A"
+theme[net_box]      = "#E3884A"
+theme[proc_box]     = "#E3884A"
+theme[div_line]     = "#BA6435"
+
+
+# Temperature 
+
+theme[temp_start]   = "#F7D383"
+theme[temp_mid]     = "#E3884A"
+theme[temp_end]     = "#D66938"
+
+
+# CPU usage 
+
+theme[cpu_start]    = "#F7D383"
+theme[cpu_mid]      = "#E99867"
+theme[cpu_end]      = "#D66938"
+
+
+# Memory
+
+theme[free_start]   = "#AEB1C0"
+theme[free_mid]     = "#F7D383"
+theme[free_end]     = "#D66938"
+
+# Cached memory 
+theme[cached_start] = "#2F2F2F"
+theme[cached_mid]   = "#767476"
+theme[cached_end]   = "#97969A"
+
+# Available memory 
+theme[available_start] = "#F7D383"
+theme[available_mid]   = "#E3884A"
+theme[available_end]   = "#D66938"
+
+# Used memory 
+theme[used_start]   = "#E99867"
+theme[used_mid]     = "#E3884A"
+theme[used_end]     = "#D66938"
+
+
+# Network
+
+theme[download_start] = "#F7D383"
+theme[download_mid]   = "#E3884A"
+theme[download_end]   = "#D66938"
+
+theme[upload_start]   = "#BA6435"
+theme[upload_mid]     = "#F7D383"
+theme[upload_end]     = "#E3884A"
+
+
+# Process load 
+
+theme[process_start] = "#F7D383"
+theme[process_mid]   = "#E99867"
+theme[process_end]   = "#D66938"

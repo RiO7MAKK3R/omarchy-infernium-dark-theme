@@ -28,14 +28,11 @@ Minimal Noise: Clean UI that emphasizes coding, monitoring, and productivity.
 
 ## Installation
 
-omarchy-theme-install https://github.com/<yourusername>/omarchy-Infernium-Dark/
+```console
 
-OR
+omarchy-theme-install https://https://https://github.com/RiO7MAKK3R/omarchy-infernium-dark-theme
 
-Copy the theme directory to your Omarchy config themes folder:
-
-~/.config/omarchy/themes/Infernium-Dark/
-
+```
 
 ## Suggested Font
 
@@ -68,3 +65,6 @@ Border size and glow strength can be tweaked in Hyprland for maximum effect.
 The theme is designed to maintain readability while delivering a visually striking “Infernium” feel.
 
 ## Preview
+
+![image alt](https://github.com/RiO7MAKK3R/omarchy-infernium-dark-theme/blob/main/infernium-dark-preview-1.png)
+![image alt](https://github.com/RiO7MAKK3R/omarchy-infernium-dark-theme/blob/main/infernium-dark-preview-2.png)
